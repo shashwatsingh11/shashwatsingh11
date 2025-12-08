@@ -1,6 +1,6 @@
 <p><samp>Hi there! I'm Shashwat.</samp></p>
 <p><samp>I'm a Computer Science graduate from <a href="https://www.srmist.edu.in/">SRM University</a>, Chennai.</samp></p>
-<p><samp>I'm passionate about Data Analysis, Machine Learning and Open Source.</samp></p>
+<p><samp>I'm passionate about Data Analysis and Business Intelligence.</samp></p>
 
 <p><samp>Tools & technologies I use:</samp></p>
 <p>
