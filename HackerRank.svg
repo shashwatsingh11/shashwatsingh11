@@ -1,0 +1,14 @@
+ <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="22"
+    height="22"
+    viewBox="0 0 24 24"
+  >
+    <!-- Green background -->
+    <rect width="24" height="24" rx="3" fill="#00EA64"/>
+    <!-- HackerRank H logo -->
+    <path
+      fill="#ffffff"
+      d="M8.703 6.7v10.6h1.594V12.2h3.406v5.1h1.594V6.7h-1.594v4.094H10.297V6.7z"
+    />
+  </svg>
