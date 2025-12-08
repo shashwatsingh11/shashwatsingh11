@@ -13,10 +13,7 @@
   </a>
   <a href="https://leetcode.com/yourusername">
     <img align="left" width="22px" src="https://cdn.simpleicons.org/leetcode/white" />
-  </a>
-    <a href="https://hackerrank.com/yourusername">
-    <img align="left" width="22px" src="https://cdn.simpleicons.org/hackerrank/white" />
-  </a>
+  <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="HackerRank.svg" />
 </p>
 
 
