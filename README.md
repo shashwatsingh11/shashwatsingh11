@@ -3,17 +3,17 @@
 <p><samp>I'm passionate about Data Analysis, Machine Learning and Open Source.</samp></p>
 <hr>
 <p>
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="Linkedin.svg" />
+<a href="www.linkedin.com/in/shashwat-singh-bb2730357" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="Linkedin.svg" />
 
-  <a href="mailto:your@email.com">
+  <a href="shashwat98k@mail.com">
     <img align="left" width="22px" src="https://cdn.simpleicons.org/gmail/white" />
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/shashwat.fit">
     <img align="left" width="22px" src="https://cdn.simpleicons.org/instagram/white" />
   </a>
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/u/fclDlbfku9/">
     <img align="left" width="22px" src="https://cdn.simpleicons.org/leetcode/white" />
-  <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="HackerRank.svg" />
+  </a>
 </p>
 
 
