@@ -1,6 +1,5 @@
-<p><samp>Hi there! I'm Shashwat.</samp></p>
-<p><samp>I'm a Computer Science graduate from <a href="https://www.srmist.edu.in/">SRM University</a>, Chennai.</samp></p>
-<p><samp>I'm passionate about Data Analysis and Business Intelligence.</samp></p>
+<p><samp>Hi there! I'm Shashwat Singh.</samp></p>
+<p><samp>I'm a Data Analyst focused on exploring data, uncovering meaningful patterns, and translating them into practical business insights through clear and effective visualizations. I hold a Bachelor's degree in Computer Science with specialization in Big Data Analytics.</samp></p>
 
 <p><samp>Tools & technologies I use:</samp></p>
 <p>
