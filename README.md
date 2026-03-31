@@ -1,5 +1,5 @@
 <p><samp>Hi there! I'm Shashwat Singh.</samp></p>
-<p><samp>I'm a Data Analyst focused on exploring data, uncovering meaningful patterns, and translating them into practical business insights through clear and effective visualizations. I hold a Bachelor's degree in Computer Science with specialization in Big Data Analytics.</samp></p>
+<p><samp>I'm a Data Analyst. I enjoy breaking down complex data problems, uncovering patterns, and translating them into practical business insights through clear and effective visualizations. I hold a Bachelor's degree in Computer Science with a specialization in Big Data Analytics.</samp></p>
 
 <p><samp>My Dashboards:</samp></p>
 <p><samp>🔹 <a href="https://public.tableau.com/app/profile/shashwat.sungh/viz/Swiggy_DB/Recommendations">Swiggy Web Traffic Performance Dashboard</a></samp></p>
